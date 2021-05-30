@@ -1,4 +1,4 @@
-package com.company.HW3;
+package com.company.package_name;
 
 import javax.swing.*;
 import java.sql.DriverManager;
