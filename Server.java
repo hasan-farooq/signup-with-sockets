@@ -1,18 +1,10 @@
 
-/*
-Name : Hasan Farooq
-Roll Number : 18L-1009
-HomeWork-3 : Build a login page using sockets to communicate b/w client aand server
-Email : l181009@lhr.nu.edu.pk
-Section :  6A
- */
-
 
 /*
 Server that keeps running and waiting/accepting client side messages/requests
  */
 
-package com.company.HW3;
+package com.company.package_name;
 
 import java.io.*;
 import java.net.ServerSocket;
