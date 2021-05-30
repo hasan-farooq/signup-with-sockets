@@ -1,4 +1,4 @@
-package com.company.HW3;
+package com.company.package_name;
 
 import java.io.IOException;
 import java.net.Socket;
