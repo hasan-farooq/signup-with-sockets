@@ -1,2 +1,5 @@
-# signup-with-sockets
-A simple multithreaded server for handling requests
+## A simple multithreaded server for handling login and signup requests in Java 
+
+### GUI -> JavaFx
+### Database -> MySQL
+
