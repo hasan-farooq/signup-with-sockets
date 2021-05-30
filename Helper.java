@@ -1,11 +1,4 @@
 
-/*
-Name : Hasan Farooq
-Roll Number : 18L-1009
-HomeWork-3 : Build a login page using sockets to communicate b/w client aand server
-Email : l181009@lhr.nu.edu.pk
-Section :  6A
- */
 
 
 /*
@@ -14,7 +7,7 @@ Makes it easy to initialize and work in a modular waay
  */
 
 
-package com.company.HW3;
+package com.company.package_name;
 
 import javafx.geometry.Pos;
 import javafx.scene.Cursor;
