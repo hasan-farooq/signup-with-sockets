@@ -12,7 +12,7 @@ public class Connection {
     public Connection(){
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql:///hw3","newuser","password");
+            c = DriverManager.getConnection("jdbc:mysql:///database_name","username","password");
 
             s = c.createStatement();
         }
